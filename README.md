@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"><img src="https://giphy.com/gifs/charlotte-ykufKs0gOwFpK" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/6rqQMuSmULOqA/giphy.gif" width="100"/></p>
 
 <!--
 **Super-Gabriel/Super-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
