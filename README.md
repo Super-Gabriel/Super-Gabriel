@@ -40,7 +40,7 @@
 
 ### 📜 About me
   - 🌱 I’m currently learning Racket
-  - 🔭 I’m working on personal proyects in java
+  - 🔭 I’m working on personal projects in java
   - 😄 Pronouns: he/him
 
 ### 🔥 Stats :
