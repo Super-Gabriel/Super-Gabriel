@@ -1,6 +1,6 @@
 <!-- BANNER GIFT DE INICIO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="650"/><br>
+  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="450"/><br>
 </p>
 
 <!-- SALUDO C: -->
@@ -34,9 +34,10 @@
 <p>
 
 <!-- GIFT DE SEPARACION -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="1000" height="50"/>
-</p>
+</p> -->
+---
 
 ### 📜 About me
   - 🌱 I’m currently learning Racket
