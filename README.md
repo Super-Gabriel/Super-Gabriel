@@ -40,7 +40,7 @@
 ---
 
 ### 📜 About me
-  - 🌱 I’m currently learning Racket
+  - 🌱 I’m currently practicing python, javascript and css.
   - 🔭 I’m working on personal projects in java
   - 😄 Pronouns: he/him
 
