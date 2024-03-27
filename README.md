@@ -1,6 +1,7 @@
 <!-- BANNER GIFT DE INICIO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="450"/><br>
+  <!--<img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="450"/><br>-->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlkZGcwdDJtN2g2ZnFkOG41eThpY2hjbHdmMGppNmZ0bjNqZzBuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xxgtGd25XqABztZ2vf/source.gif" width="150"/><br>
 </p>
 
 <!-- SALUDO C: -->
