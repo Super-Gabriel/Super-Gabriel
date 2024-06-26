@@ -41,7 +41,7 @@
 ---
 
 ### 📜 About me
-  - 🌱 I’m currently practicing python, javascript and css.
+  - 🌱 I’m currently practicing javascript.
   - 🔭 I’m working on personal projects in java
   - 😄 Pronouns: he/him
 
