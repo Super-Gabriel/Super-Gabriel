@@ -15,15 +15,15 @@
   <a href="https://www.linkedin.com/in/angel-gabriel-s%C3%A1nchez-pavia-689287283/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-
+<!--
   <a href="https://www.youtube.com/channel/UCUIXZE_3Zasu9J56gWsi45w">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
   </a>
-  
+ <!-- 
   <a href="https://twitter.com/g4br13l2002">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-
+<!--
   <a href="https://www.facebook.com/G4BR13L2002/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
