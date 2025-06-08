@@ -40,11 +40,11 @@
 </p> -->
 ---
 
-### 📜 About me
+<!--### 📜 About me
   - 🌱 I’m currently practicing javascript.
   - 🔭 I’m working on personal projects in java
   - 😄 Pronouns: he/him
-
+-->
 ### 🔥 Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Super-Gabriel&theme=dark&background=000000)](https://git.io/streak-stats)
 
